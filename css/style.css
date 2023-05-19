@@ -384,7 +384,7 @@ padding: 0px !important;
 h1,
 h2,
 .font-weight-bold {
-    font-weight: 700 !important;
+    font-weight: 600 !important;
 }
 
 h3,
@@ -669,4 +669,43 @@ h6,
     z-index: -1;
 }
 
+.colh2 h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
 
+letter-spacing: 0.1px;
+
+
+color: #12223D;
+}
+
+.ptag{
+    font-weight: 600;
+}
+
+.letsbtn{
+    
+    padding: 12px 32px;
+    gap: 10px;
+
+    width: 189px;
+    height: 44px;
+
+color: white;
+    background: #187080;
+    border-radius: 4px;
+
+}
+
+.btmh2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 32px;
+    line-height: 48px;
+
+
+    letter-spacing: 0.1px;
+}
